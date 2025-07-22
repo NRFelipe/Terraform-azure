@@ -14,7 +14,6 @@ http://${azurerm_public_ip.ingress_ip.ip_address}
 
 📄 Você verá uma mensagem "404 Not Found" do NGINX — isso é esperado!
 
-➡️ Prossiga para o Lab 03 para criar uma aplicação + Ingress Resource.
 
 EOT
 }
